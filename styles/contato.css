@@ -46,3 +46,9 @@
     /* text-align: center; */
     padding-left: 3em;
 }
+
+@media srceen and (min-width: 1024px){
+    .contato{
+        display: flex;
+    }
+}

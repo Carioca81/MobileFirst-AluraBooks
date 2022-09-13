@@ -1,0 +1,8 @@
+MEDIA QUERIES
+
+Quando usamos o método de desenvolvimento Mobile-First, empregaremos o media query empregando min-width para fazer as alterações nos dispositivos de tela maior.
+
+Quando desenvolvemos páginas primeiramente para computadores e depois desejamos ajustar a página para dispositivos menores, neste caso usaremos max-width para efetuar os ajustes para telas de tamanho menor.
+
+
+O que compreendi até agora é que sempre devemos decidir qual é o nosso target principal, se o mobile ou o desktop. E, dependendo da resposta empregaremos a melhor metodologia de desenvolvimento da página.
