@@ -68,6 +68,10 @@
     padding: 1em 2.2em
 }
 
+.botoes__ancora:active{
+    background-color: var(--azul);
+}
+
 .card__botoes{
     display: flex;
     justify-content: space-between;

@@ -46,9 +46,13 @@ hr{
         column-gap: .5em;
         margin: .5em 0;
     }
-    .lista-rodape__item a{
+    .lista-rodape__link{
         text-decoration: none;
         color: var(--cinza-escuro);
+    }
+
+    .lista-rodape__link:hover{
+        color: var(--laranja);
     }
 }
 

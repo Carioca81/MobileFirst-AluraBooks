@@ -135,11 +135,14 @@
     }
 
     .lista-menu{
-        margin-top: -1em;
+        margin-top: -1.2em;
     }
 
-    .lista-menu__item:hover {
+    .lista-menu__item:hover{
         background: var(--azul-degrade);
+    }
+    .lista-menu__item:hover > .lista-menu__link{
+        -webkit-text-fill-color: var(--branco);
     }
 }
 
