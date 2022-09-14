@@ -18,6 +18,9 @@ hr{
         /* justify-content: space-between; */
         padding: 3em 1em;
         column-gap: 5em;
+        justify-content: space-between;
+        padding-left: 5vw;
+        padding-right: 5vw;
     }
 
     .rodape__titulo{
